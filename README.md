@@ -1,2 +1,4 @@
 # first_repository
-HEY! This is Harsh Bhalwar and it is my first repository
+HEY! I am Harsh Bhalwar and it is my first repository
+<br>
+I have used br tag to separate lines.
